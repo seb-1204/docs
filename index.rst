@@ -56,6 +56,7 @@ can use the headings in the left sidebar to navigate the site.
    :maxdepth: 1
    :glob:
 
+   users/releases
    Command Line Operation <users/syncthing>
    users/faq
 
