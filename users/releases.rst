@@ -15,8 +15,6 @@ Characteristic    Release                   Candidate
 ----------------  ------------------------  -------------------
 Stability         More Stable               More Experimental
 Features & Fixes  About two weeks behind    Latest
-Usage Reporting   Default Off, Prompts      Default On, Prompts
-Auto Upgrades     Default On, Configurable  Always On [*]_
 Support           Fully supported           Fully supported [*]_
 ================  ========================  ===================
 
