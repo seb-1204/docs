@@ -11,7 +11,7 @@ call it that at the time.
 There are a number of trade-offs between the two:
 
 ================  ========================  ===================
-                  Release                   Candidate
+Characteristic    Release                   Candidate
 ----------------  ------------------------  -------------------
 Stability         More Stable               More Experimental
 Features & Fixes  About two weeks behind    Latest
@@ -78,8 +78,8 @@ Some Other Distribution Channel
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you are getting packages from your Linux distribution, NAS vendor, etc.,
-then you should be getting the release channel. If you get a release
-candidate you should complain to your distributor or vendor and refer them
+then you should be getting the *release* channel. If you get a release
+*candidate* you should complain to your distributor or vendor and refer them
 to this page.
 
 FAQ
