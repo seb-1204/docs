@@ -15,17 +15,17 @@ There are a number of trade-offs between the two:
 =========================  =========================  ======================
 **Stability**              More Stable                More Experimental
 **Features & Fixes**       About two weeks behind     Latest
-**Auto Upgrades**          Optional                   Mandatory [*]_
+**Auto Upgrades**          Optional                   Mandatory [#]_
 **Anon. Usage Reporting**  Optional                   Mandatory
-**Support**                Fully supported            Fully supported [*]_
+**Support**                Fully supported            Fully supported [#]_
 =========================  =========================  ======================
 
 Run the candidate channel if you are technically savvy and enjoy new
 features. Run the stable channel if you want to minimize the amount of
 surprises you might run into.
 
-.. [*] Auto upgrades are not enabled in builds delivered via APT or Snap.
-.. [*] Yes, there is intentionally no difference here.
+.. [#] Auto upgrades are not enabled in builds delivered via APT or Snap.
+.. [#] Yes, there is intentionally no difference here.
 
 Life Cycle
 ----------
