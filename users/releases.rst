@@ -10,15 +10,13 @@ call it that at the time.
 
 There are a number of trade-offs between the two:
 
-+------------------+-------------------------+----------------------+
-|                  | Release                 | Candidate            |
-+==================+=========================+======================+
-| Stability        | More Stable             | More Experimental    |
-+------------------+-------------------------+----------------------+
-| Features & Fixes | About two weeks behind  | Latest               |
-+------------------+-------------------------+----------------------+
-| Support          | Fully supported         | Fully supported [*]_ |
-+------------------+-------------------------+----------------------+
+================== ========================= ======================
+\                  Release                   Candidate
+================== ========================= ======================
+Stability          More Stable               More Experimental
+Features & Fixes   About two weeks behind    Latest
+Support            Fully supported           Fully supported [*]_
+================== ========================= ======================
 
 Run the candidate channel if you are technically savvy and enjoy new
 features. Run the stable channel if you want to minimize the amount of
